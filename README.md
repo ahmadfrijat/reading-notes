@@ -12,6 +12,7 @@
 ![image](https://wpshopmart.com/wp-content/uploads/2016/10/Code-It-Logical-HD-Wallpaper-1.jpg)
 
 
+
 1. [class01](https://ahmadfrijat.github.io/reading-notes-01/)
 1. [class02](http://github.com)
 1. [class03](https://ahmadfrijat.github.io/reading-notes-03/.)
