@@ -1,9 +1,10 @@
-# reading notes.
+# welcome to my notes.
 * name : ahmad alfrijat (he/him).
 
-* e-mail : ahmadalfrijat7@gmail .com 
+* e-mail : ahmadalfrijat7@gmail.com 
 
 * [my GitHub](https://github.com/ahmadfrijathttp://github.com)
+
 
  
 
