@@ -1,9 +1,12 @@
-# Nothing is IMPOSSIBLE #.
+# reading notes.
+name : ahmad alfrijat (he/him).
+e-mail : ahmadalfrijat7@gmail .com 
+git hub : https://github.com/ahmadfrijat
+(ahmad)[https://ca.slack-edge.com/TNGRRLUMA-U01HFSXMKBJ-36be2fb175c5-512]
 
-## THE WORD ITSELF SAYS I’M POSSIBLE! ##
 
-**Work hard now. Don’t wait. If you work hard enough, you’ll be given what you deserve.**
 
-_Success is the ability to go from one failure to another with no loss of enthusiasm._
 
-***Look for the good in every situation, seek the valuable lesson in every setback, look for the solution to every problem. Think and talk continually about your goals.***
+
+
+
