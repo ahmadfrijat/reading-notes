@@ -1,4 +1,4 @@
-# read me #
+# git hub #
 
  first we learn today about how to use ubunto and use it to git our git hub account and make changes on it , and we larned alot of comand line such as : 
 * ls : view list.
