@@ -5,7 +5,7 @@
 
 * git hub : https://github.com/ahmadfrijat
 
-[ahmad](2wCEAAkGBxATEhAQEBAVEBAVGRYbGRUVGBscHBggIB0iIiAdHx8kKDQsJCYxJx8fLTItMTMuMDAwIys0QD8uNzQ5MC0BCgoKDg0OFhAQFjcaFx0tKysrKzcrLjEtNy0rNzc3Ny0wNzc3NTc3LTc3KzErLzUwMDcuLy0tKzgrKzcrKysrLf)
+[ahmad](https://wpshopmart.com/wp-content/uploads/2016/10/Code-It-Logical-HD-Wallpaper-1.jpg)
 
 
 
