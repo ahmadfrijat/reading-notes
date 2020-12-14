@@ -1,6 +1,6 @@
-#Nothing is IMPOSSIBLE#.
+# Nothing is IMPOSSIBLE #.
 
-##THE WORD ITSELF SAYS I’M POSSIBLE!##
+## THE WORD ITSELF SAYS I’M POSSIBLE! ##
 
 **Work hard now. Don’t wait. If you work hard enough, you’ll be given what you deserve.**
 
