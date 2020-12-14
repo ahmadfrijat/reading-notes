@@ -1,11 +1,11 @@
 # reading notes.
-name : ahmad alfrijat (he/him).
+* name : ahmad alfrijat (he/him).
 
-e-mail : ahmadalfrijat7@gmail .com 
+* e-mail : ahmadalfrijat7@gmail .com 
 
-git hub : https://github.com/ahmadfrijat
+* git hub : https://github.com/ahmadfrijat
 
-(ahmad)[https://ca.slack-edge.com/TNGRRLUMA-U01HFSXMKBJ-36be2fb175c5-512]
+(ahmad[2wCEAAkGBxATEhAQEBAVEBAVGRYbGRUVGBscHBggIB0iIiAdHx8kKDQsJCYxJx8fLTItMTMuMDAwIys0QD8uNzQ5MC0BCgoKDg0OFhAQFjcaFx0tKysrKzcrLjEtNy0rNzc3Ny0wNzc3NTc3LTc3KzErLzUwMDcuLy0tKzgrKzcrKysrLf]
 
 
 
