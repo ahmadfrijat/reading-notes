@@ -14,7 +14,7 @@
 
 
 1. [class01](https://ahmadfrijat.github.io/reading-notes/read2)
-1. [class02](http://github.com)
+1. [class02](https://ahmadfrijat.github.io/reading-notes/read2)
 1. [class03](https://ahmadfrijat.github.io/reading-notes-03/.)
 1. [class04](https://ahmadfrijat.github.io/reading-notes-03/.)
 1. [class05](https://ahmadfrijat.github.io/reading-notes/05)
