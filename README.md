@@ -20,7 +20,7 @@
 1. [class05](https://ahmadfrijat.github.io/reading-notes/05)
 1. [class06](https://ahmadfrijat.github.io/reading-notes/06)
 1. [class07](https://ahmadfrijat.github.io/reading-notes/07)
-
+1. [class08](https://ahmadfrijat.github.io/reading-notes/08)
 
 
 
